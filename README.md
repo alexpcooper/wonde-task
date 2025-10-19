@@ -26,7 +26,7 @@ Please note that this app does not use a database. Given the focus of the task i
 
 ## Usage
 Upon loading the app you'll see a (faux) login page. This pre-populates a dropdown of IDs taken from the API. Select your user, ensure the password field is populated (with anything) and then select "Sign in".
-![testcasesimage](https://gist.github.com/user-attachments/assets/b401b2c3-b0a0-4612-8e08-db79623858f2)
+![testcasesimage](https://alexpcooper.co.uk/images/wonde.png)
 
 Once logged in you will be taken to a Dashboard listing different areas of functionality. The first one, "Classes" (highlighted) is the only one that will work, taking you to a page showing the classes relevant to the user selected.
 
