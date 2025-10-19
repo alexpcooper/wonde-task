@@ -26,7 +26,7 @@ Please note that this app does not use a database. Given the focus of the task i
 
 ## Usage
 Upon loading the app you'll see a (faux) login page. This pre-populates a dropdown of IDs taken from the API. Select your user, ensure the password field is populated (with anything) and then select "Sign in".
-![testcasesimage](https://private-user-images.githubusercontent.com/10476164/503011927-b401b2c3-b0a0-4612-8e08-db79623858f2.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjA5MDgzMDIsIm5iZiI6MTc2MDkwODAwMiwicGF0aCI6Ii8xMDQ3NjE2NC81MDMwMTE5MjctYjQwMWIyYzMtYjBhMC00NjEyLThlMDgtZGI3OTYyMzg1OGYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDE5VDIxMDY0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk4OWQ2NDI1OWM4ZDNmNzFhZmI0ODk3ODRmYThiODhkNDk3YmEzZWI0Mjk4NGFkYmQ3ZDhkMWRmNzNmNWVmYmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.WNX5usYvSJ707JrerK1ZqrDCGQbtsVbSk5DAkjI6Xa8)
+![testcasesimage](https://gist.github.com/user-attachments/assets/b401b2c3-b0a0-4612-8e08-db79623858f2)
 
 Once logged in you will be taken to a Dashboard listing different areas of functionality. The first one, "Classes" (highlighted) is the only one that will work, taking you to a page showing the classes relevant to the user selected.
 
